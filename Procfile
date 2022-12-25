@@ -1,0 +1,1 @@
+worker: python Professor_Bot.py
